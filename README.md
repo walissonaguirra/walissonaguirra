@@ -16,6 +16,7 @@
 <h3> 🛠 &nbsp;Tools</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual%20studio%20code)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Composer](https://img.shields.io/badge/-Composer-333333?style=for-the-badge&logo=composer)
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=for-the-badge&logo=webpack)
