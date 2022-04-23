@@ -36,6 +36,6 @@
 ![SQLite 3](https://img.shields.io/badge/-SQLite%203-333333?style=for-the-badge&logo=sqlite)
 ![PHP 7.4](https://img.shields.io/badge/-PHP%207.4-333333?style=for-the-badge&logo=php)
 
-<h2>Um pouco mais sobre o meu perfil</h2>
+<h2>💡 &nbsp;Dedicação</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=walissonaguirra&show_icons=true&theme=dracula&hide=issues,stars"/>
